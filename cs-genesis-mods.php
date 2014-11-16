@@ -3,7 +3,7 @@
 Plugin Name: CS Genesis Mods
 Plugin URI: https://github.com/ClearSkyPDX/CS-genesis-mods/
 Description: Add additional customizations to Genesis Theme.
-Version: 2.0.1
+Version: 2.1.1
 Author: Bradford Knowlton
 Author URI: http://bradknowlton.com/
 License: GNU General Public License v2
@@ -33,7 +33,6 @@ function clearsky_site_header_banner() {
 	echo '</div>';
 
 }
-
 
 function hook_css()
 {
