@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Domain Path: /languages
 Text Domain: CS-genesis-mods
 GitHub Plugin URI: https://github.com/ClearSkyPDX/CS-genesis-mods
-GitHub Branch: clearskypdx.com
+GitHub Branch: lifeohm.com
 */
 
 function CS_after_setup_theme() {
